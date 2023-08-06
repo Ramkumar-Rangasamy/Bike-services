@@ -35,3 +35,11 @@
 ![backend apl bookinginfo](https://github.com/Ramkumar-Rangasamy/Cartrabbit-Task/assets/125209102/2ba39b87-817a-4930-9270-7a4f42716f6a)
 
 ![backend apl postmethod](https://github.com/Ramkumar-Rangasamy/Cartrabbit-Task/assets/125209102/fc683561-d22f-4b94-87b2-401540dc99bf)
+
+![customerInfo_postMethod](https://github.com/Ramkumar-Rangasamy/Cartrabbit-Task/assets/125209102/c47e0777-4bc3-493c-b36c-9e10d329e477)
+
+![customerInfo_getMethod](https://github.com/Ramkumar-Rangasamy/Cartrabbit-Task/assets/125209102/ea631b78-612e-4ba6-ad08-953ad5e077ca)
+
+![customerInfo_putMethod](https://github.com/Ramkumar-Rangasamy/Cartrabbit-Task/assets/125209102/1e5c29a0-95a2-4fe1-888f-3b8ddc74fa18)
+
+![customerInfo_deleteMethod](https://github.com/Ramkumar-Rangasamy/Cartrabbit-Task/assets/125209102/b6384346-c1ef-4b14-8c48-8be21ec7ee2e)
